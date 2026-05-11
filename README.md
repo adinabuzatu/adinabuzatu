@@ -20,8 +20,6 @@ My work focuses on:
 - performance-focused systems
 - immersive interactive experiences
 
-Currently building a **Unity 2D cybersecurity game** focused on player behaviour, WebGL deployment, and mobile optimization.
-
 Open to:
 - Remote Frontend Engineering roles
 - Game Development opportunities
