@@ -20,12 +20,6 @@ My work focuses on:
 - performance-focused systems
 - immersive interactive experiences
 
-Open to:
-- Remote Frontend Engineering roles
-- Game Development opportunities
-- Open-source collaboration
-- Indie projects
-
 ---
 
 ### ✍️ Languages
