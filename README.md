@@ -7,10 +7,6 @@
 Game Developer • Frontend Engineer • Interactive Systems
 </p>
 
-<p align="center">
-Building high-performance interactive systems with Unity, React, TypeScript and Node.js.
-</p>
-
 ---
 
 ## About Me
@@ -34,7 +30,19 @@ Open to:
 
 ---
 
-## Tech Stack
+### Tech Stack & Tools
+
+| End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design) ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat&logo=less) ![umi](https://img.shields.io/badge/-umi-4569d4?style=flat&logo=umi) |
+| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Egg](https://img.shields.io/badge/-Egg.js-22ab28?style=flat) ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb)                                                                                                                                                                   |
+| ![Devops](https://img.shields.io/badge/-Devops-black?style=flat)     | ![GitHub Action][gitHub-action]  ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx)  ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker)                                                                                                                                                                    |
+| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![WebStorm](https://img.shields.io/badge/-WebStorm-3a3a3a?style=flat&logo=webstorm) ![PyCharm](https://img.shields.io/badge/-PyCharm-3a3a3a?style=flat&logo=pycharm) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)                                                 |
+| ![Workflow](https://img.shields.io/badge/-Other-black?style=flat)           | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)     [![Gitmoji][gitmoji]][gcw]                                                                                           |
+
+[gitHub-action]: https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github
+[gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-black?style=flat
+[gcw]: https://github.com/arvinxx/gitmoji-commit-workflow
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-0d1524?style=for-the-badge&logo=react)
@@ -57,61 +65,6 @@ Open to:
 
 ---
 
-## Featured Projects
-
-### Hammy's Home
-Interactive digital platform built for Ontwikkelrecht to increase student engagement and showcase artwork across locations.
-
-#### Highlights
-- Authentication system (login/signup/logout)
-- Interactive customizable sticker board
-- Persistent sticker state saving
-- Drag / scale / rotate interactions
-- Responsive frontend architecture
-
-#### Stack
-React • TypeScript • Node.js • Express • MySQL
-
-🔗 Repository:
-https://github.com/adinabuzatu/IWP-My-Code-Y4
-
----
-
-### Symphony Sync
-AR rhythm game prototype developed for SPOT Groningen to make classical music more engaging for younger audiences.
-
-#### Highlights
-- Millisecond-accurate beatmap timing system
-- Audio-synced gameplay mechanics
-- Combo + scoring systems
-- Hit feedback and particle systems
-- Achievement system integration
-
-#### Stack
-Unity • C# • AR
-
-🔗 Repository:
-https://github.com/adinabuzatu/RhythmGame_MyScripts
-
----
-
-### Nano
-VR immune-system game prototype focused on interactive gameplay systems and player feedback.
-
-#### Highlights
-- Gameplay scripting systems
-- Quest and objective tracking
-- Physics-based interactions
-- Player feedback systems
-- Distance-based gameplay responses
-
-#### Stack
-Unity • C# • VR
-
-🔗 Repository:
-https://github.com/adinabuzatu/MyScripts_Nano
-
----
 
 ## Currently Working On
 
