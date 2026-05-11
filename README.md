@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=40ABD9&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Game+Developer;React+%2B+Unity+Developer;Building+Interactive+Systems" />
+</p>
 <h1 align="center">Adina Buzatu</h1>
 
 <p align="center">
