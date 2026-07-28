@@ -39,18 +39,3 @@ My work focuses on:
 | ![Workflow](https://img.shields.io/badge/-Workflow-0d1524?style=flat) | ![Responsive Design](https://img.shields.io/badge/-Responsive_UI-40abd9?style=flat) ![Gameplay Systems](https://img.shields.io/badge/-Gameplay_Systems-5140b0?style=flat) ![Performance](https://img.shields.io/badge/-Performance_Focused-2560a0?style=flat) ![Interactive UX](https://img.shields.io/badge/-Interactive_UX-182b59?style=flat) |
 
 ---
-
-## Currently Working On
-
-### Cybersecurity Behaviour Game
-Developing a Unity 2D educational game focused on:
-- phishing awareness
-- weak password prevention
-- software update behaviour
-- instinctive cybersecurity decision-making
-
-Target platforms:
-- WebGL
-- Mobile optimized builds
-
----
